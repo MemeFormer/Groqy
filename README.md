@@ -3,11 +3,6 @@ Groqy: Chat with AI like a pro, right from your command line. No setup hassle, z
 
 
 
-
-# Groqy
-
-Groqy is a command-line interface (CLI) tool that allows you to interact with AI language models using the Groq API. It provides a simple and intuitive way to chat with AI models, maintain a conversation history, and save individual AI responses with auto-generated filenames.
-
 ## Features
 
 - Easy setup and installation using pipx
