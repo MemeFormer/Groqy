@@ -1,0 +1,5 @@
+requests
+rich
+inquirer
+halo
+python-dotenv
